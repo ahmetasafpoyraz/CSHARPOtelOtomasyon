@@ -1,0 +1,129 @@
+c:\users\asus\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form1.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form2.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form3.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form4.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form5.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form6.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form7.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form8.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form9.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form10.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form11.resources
+E:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb
+E:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe
+E:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.pdb
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csprojResolveAssemblyReference.cache
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form1.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form10.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form11.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form2.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form3.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form4.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form5.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form6.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form7.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form8.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form9.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Properties.Resources.resources
+E:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csproj.GenerateResource.Cache
+E:\otelim.odev\otelim.odev\obj\Debug\RdlCompile.cache
+E:\otelim.odev\otelim.odev\obj\Debug\RdlCompile.compiled
+D:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb
+D:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe
+D:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.pdb
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csprojResolveAssemblyReference.cache
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form1.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form10.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form11.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form2.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form3.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form4.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form5.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form6.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form7.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form8.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form9.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Properties.Resources.resources
+D:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csproj.GenerateResource.Cache
+D:\otelim.odev\otelim.odev\obj\Debug\RdlCompile.cache
+D:\otelim.odev\otelim.odev\obj\Debug\RdlCompile.compiled
+F:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb
+F:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe
+F:\otelim.odev\otelim.odev\bin\Debug\otelim.odev.pdb
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csprojResolveAssemblyReference.cache
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form1.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form10.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form11.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form2.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form3.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form4.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form5.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form6.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form7.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form8.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form9.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Properties.Resources.resources
+F:\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csproj.GenerateResource.Cache
+F:\otelim.odev\otelim.odev\obj\Debug\RdlCompile.cache
+F:\otelim.odev\otelim.odev\obj\Debug\RdlCompile.compiled
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.pdb
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csprojResolveAssemblyReference.cache
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form1.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form10.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form11.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form2.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form3.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form4.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form5.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form6.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form7.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form8.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form9.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Properties.Resources.resources
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csproj.GenerateResource.Cache
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\RdlCompile.cache
+C:\Users\POYRAZ BEY\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Debug\RdlCompile.compiled
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.pdb
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csprojResolveAssemblyReference.cache
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form1.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form10.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form11.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form2.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form3.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form4.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form5.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form6.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form7.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form8.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Form9.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.Properties.Resources.resources
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.csproj.GenerateResource.Cache
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\RdlCompile.cache
+E:\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\RdlCompile.compiled
+E:\wep odevi ve yedekleri\yedek2\yedek son\Projects\otelim.odev\otelim.odev\bin\Debug\otelim.odev.exe.config
+E:\wep odevi ve yedekleri\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.exe
+E:\wep odevi ve yedekleri\yedek2\yedek son\Projects\otelim.odev\otelim.odev\obj\Debug\otelim.odev.pdb

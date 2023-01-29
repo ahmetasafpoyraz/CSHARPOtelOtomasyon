@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\bin\Release\otelim.odev.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\bin\Release\otelim.odev.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\bin\Release\otelim.odev.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form5.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form6.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Form7.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\otelim.odev\otelim.odev\obj\Release\otelim.odev.csprojResolveAssemblyReference.cache
